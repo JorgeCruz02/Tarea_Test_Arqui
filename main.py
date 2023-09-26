@@ -13,4 +13,5 @@ class operaciones:
     
     def division(x,y):
         return x / y
-    
+    def div2(x,y):
+        return (x,y)
