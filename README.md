@@ -7,7 +7,7 @@ Readme con los participantes:
 
 -Cervantes Figueroa Angélica
 
--Velazquez Peña Alejandro
+-Velázquez Peña Alejandro
 
 -Eva Visomblain
 
