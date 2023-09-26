@@ -10,3 +10,7 @@ class operaciones:
 
     def is_greater_than(num_1,num_2):
         return num_1 > num_2
+    
+    def division(x,y):
+        return x / y
+    
