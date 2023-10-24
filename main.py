@@ -1,5 +1,8 @@
+import logging
+
 class operaciones:    
     def suma(x, y):
+        logging.info(f"Esto es un logging de suma de 2 variable {x} + {y} = {x+y}")
         return x + y
 
     def resta(x, y):

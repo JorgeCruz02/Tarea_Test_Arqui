@@ -1,9 +1,5 @@
 from main import operaciones
 
+def test_division():
+    assert operaciones.division(10,2) == 5
 
-print("Dame x")
-x = int(input())
-print("Dame y")
-y = int(input())
-z = operaciones.division(x,y)
-print("El resultado de la division es: ", z)
