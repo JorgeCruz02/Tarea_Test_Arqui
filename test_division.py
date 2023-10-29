@@ -1,3 +1,4 @@
+
 import logging
 from main import operaciones
 
@@ -25,3 +26,4 @@ def test_division():
 
 if __name__ == "__main__":
     test_division()
+

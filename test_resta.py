@@ -1,9 +1,3 @@
-<<<<<<< Updated upstream
-from main import operaciones
-
-def test_resta():
-    assert operaciones.resta(7,3) == 4
-=======
 import logging
 from main import operaciones
 
@@ -42,4 +36,4 @@ if __name__ == "__main__":
 
 
 
->>>>>>> Stashed changes
+
