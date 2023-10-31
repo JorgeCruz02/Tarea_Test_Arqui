@@ -10,7 +10,7 @@ def test_division():
     b = 0
 
     # Mensaje de depuración
-    logging.debug(f"Realizando la división de {a} entre {b}")
+    logging.debug(f"Realizando la división d {a} entre {b}")
 
     try:
         result = operaciones.division(a, b)
